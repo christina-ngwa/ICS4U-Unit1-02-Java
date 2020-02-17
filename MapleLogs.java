@@ -13,12 +13,7 @@ public class MapleLogs {
   /**
   * This program calculates the number of logs
   * that a logging truck can carry with user input.
-  *
-  * @author  Christina Ngwa
-  * @version 1.0
-  * @since   2020-02-11
   */
-  
   public static void main(String []args) {
     // variables
     
